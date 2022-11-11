@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/loja-otica/static/css/main.f722e6a6.css",
+    "main.js": "/loja-otica/static/js/main.2067a509.js",
+    "static/js/787.a02cffa0.chunk.js": "/loja-otica/static/js/787.a02cffa0.chunk.js",
+    "static/media/capa.png": "/loja-otica/static/media/capa.44a9e1db5439c08db3da.png",
+    "static/media/logo.svg": "/loja-otica/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/loja-otica/index.html",
+    "main.f722e6a6.css.map": "/loja-otica/static/css/main.f722e6a6.css.map",
+    "main.2067a509.js.map": "/loja-otica/static/js/main.2067a509.js.map",
+    "787.a02cffa0.chunk.js.map": "/loja-otica/static/js/787.a02cffa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f722e6a6.css",
+    "static/js/main.2067a509.js"
+  ]
+}
